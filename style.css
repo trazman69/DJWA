@@ -1,0 +1,22 @@
+.heading
+{
+  font-size: 18px;
+  width: 100%;
+  margin: 0px;
+  background-color:gold;
+}
+
+.play_button
+  {
+  	width: 170px;
+  	font-size: 25px;
+    background-color: deeppink;
+    text-align: center;
+  }
+
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    
+  }
